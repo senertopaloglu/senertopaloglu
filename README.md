@@ -1,7 +1,7 @@
 👋 Hi, I’m @senertopaloglu<br>
 - I'm a 2nd year Computer Science and AI student at the University of Nottingham<br>
 - Please feel free to check the repos hosted on here, they're mostly projects I have built in my spare time.<br>
-- Currently I am seeking an industrial placement commencing 2023, if you have any oppurtunities for me to learn new concepts or join a new team then please contact me as I'd love to hear it!<br>
+- I am currently seeking an industrial placement commencing 2023, if you have any oppurtunities for me to learn new concepts or join a new team then please contact me as I'd love to hear it!<br>
 - 📫 Contact: https://www.linkedin.com/in/sener-topaloglu/<br>
 
 <!--
