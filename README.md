@@ -1,5 +1,5 @@
 👋 Hi, I’m @senertopaloglu<br>
-- I'm a final year BSc Computer Science and AI student at the University of Nottingham<br>
+- I'm a final year BSc Computer Science and Artificial Intelligence student at the University of Nottingham<br>
 - Please feel free to check the repos hosted on here.<br>
 - I'm currently seeking a Software Engineer/Machine Learning Engineer internship commencing 2025 - please reach out if you have any oppurtunities for me, I'd enjoy learning more about them!<br>
 - 📫 Contact: https://www.linkedin.com/in/sener-topaloglu/<br>
