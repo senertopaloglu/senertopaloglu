@@ -2,7 +2,7 @@
 - I'm a final year BSc Computer Science and Artificial Intelligence student at the University of Nottingham<br>
 - Please feel free to check the repos hosted on here.<br>
 - I'm currently seeking a Software Engineer/Machine Learning Engineer internship commencing 2025 - please reach out if you have any oppurtunities for me, I'd enjoy learning more about them!<br>
-- 📫 Contact: https://www.linkedin.com/in/sener-topaloglu/<br>
+- 📫 https://www.linkedin.com/in/sener-topaloglu/<br>
 
 <!--
 **senertopaloglu/senertopaloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
